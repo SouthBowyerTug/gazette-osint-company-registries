@@ -1,0 +1,11 @@
+{
+  "name": "officers_follow",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gazette \u2014 osint helper",
+  "license": "MIT",
+  "main": "lib/officers_follow.js",
+  "scripts": {
+    "start": "node lib/officers_follow.js"
+  }
+}
