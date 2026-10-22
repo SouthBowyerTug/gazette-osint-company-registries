@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <defs><clipPath id="tile"><rect width="1024" height="1024" rx="228"/></clipPath></defs>
+  <g clip-path="url(#tile)">
+  <rect width="1024" height="1024" fill="#EDE4CC"/>
+  <path d="M372 560l-56 330 110-74 86 96V560zM652 560l56 330-110-74-86 96V560z" fill="#131A2B"/>
+  <g fill="#131A2B"><circle cx="512" cy="420" r="244"/><circle cx="756.0" cy="420.0" r="36"/><circle cx="747.7" cy="483.2" r="36"/><circle cx="723.3" cy="542.0" r="36"/><circle cx="684.5" cy="592.5" r="36"/><circle cx="634.0" cy="631.3" r="36"/><circle cx="575.2" cy="655.7" r="36"/><circle cx="512.0" cy="664.0" r="36"/><circle cx="448.8" cy="655.7" r="36"/><circle cx="390.0" cy="631.3" r="36"/><circle cx="339.5" cy="592.5" r="36"/><circle cx="300.7" cy="542.0" r="36"/><circle cx="276.3" cy="483.2" r="36"/><circle cx="268.0" cy="420.0" r="36"/><circle cx="276.3" cy="356.8" r="36"/><circle cx="300.7" cy="298.0" r="36"/><circle cx="339.5" cy="247.5" r="36"/><circle cx="390.0" cy="208.7" r="36"/><circle cx="448.8" cy="184.3" r="36"/><circle cx="512.0" cy="176.0" r="36"/><circle cx="575.2" cy="184.3" r="36"/><circle cx="634.0" cy="208.7" r="36"/><circle cx="684.5" cy="247.5" r="36"/><circle cx="723.3" cy="298.0" r="36"/><circle cx="747.7" cy="356.8" r="36"/></g>
+  <circle cx="512" cy="420" r="172" fill="#EDE4CC"/>
+  <circle cx="512" cy="420" r="96" fill="#131A2B"/>
+  </g>
+</svg>
